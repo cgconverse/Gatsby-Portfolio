@@ -17,32 +17,32 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'CathleneConverse.jpg',
   paragraphOne: '',
   paragraphTwo: '',
   paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'Resume.Cathlene Converse.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'emergence-homepage.png',
+    title: 'Emergence',
+    info: 'This web application is the solution to finding new local emerging artists by city.  It aggregates data from various sources and creates a user-friendly, data-centric overview that gives the user a complete perspective of a band in under 30 seconds.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://awsiegfried.github.io/Emergence_v1/',
+    repo: 'https://github.com/AWSiegfried/Emergence_v1', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'QuarantineGame.png',
+    title: 'The Quarantine Game',
+    info: 'The Quarantine Game provides an outlet for people who want to come together with friends to have a fun game night while also practicing social distance.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://gentle-cliffs-28390.herokuapp.com/',
+    repo: 'https://github.com/ttngu/QuarantineGame', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'cathleneconverse@gmail.com',
 };
 
 // FOOTER DATA
@@ -78,12 +78,12 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/cathlene-converse/',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/cgconverse',
     },
   ],
 };
