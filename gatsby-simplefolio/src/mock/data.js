@@ -18,9 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'CathleneConverse.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
+  paragraphOne:
+    'Front-end Web Developer at the intersection of form and function. BA in creative writing combined with more recent study at UCLA in full stack web development where over 200 classroom hours were spent focusing on gaining technical programming skills using HTML5, CSS3, Javascript, JQuery, NodeJS, MySQL, MongoDB, Express, Handlebars, ReactJS, Heroku, Web APIs, RESTful APIs, Git and testing. Self-directed; self-motivated; and highly organized. Accountable, and focused; passionate about seeing projects through from ideation to delivery and troubleshooting complex issues.',
+  // paragraphTwo: '',
+  // paragraphThree: '',
   resume: 'Resume.Cathlene Converse.pdf', // if no resume, the button will not show up
 };
 
@@ -44,15 +45,15 @@ export const projectsData = [
     url: 'https://gentle-cliffs-28390.herokuapp.com/',
     repo: 'https://github.com/ttngu/QuarantineGame', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'project.jpg',
+  //   title: '',
+  //   info: '',
+  //   info2: '',
+  //   url: '',
+  //   repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+  // },
 ];
 
 // CONTACT DATA
@@ -65,16 +66,16 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    // {
+    //   id: nanoid(),
+    //   name: 'twitter',
+    //   url: '',
+    // },
+    // {
+    //   id: nanoid(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
     {
       id: nanoid(),
       name: 'linkedin',
