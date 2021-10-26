@@ -9,8 +9,8 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '',
-  name: '',
+  title: 'Gatsby Portfolio',
+  name: 'Cathlene Converse',
   subtitle: '',
   cta: '',
 };
@@ -20,8 +20,6 @@ export const aboutData = {
   img: 'CathleneConverse.jpg',
   paragraphOne:
     'Front-end Web Developer at the intersection of form and function. BA in creative writing combined with more recent study at UCLA in full stack web development where over 200 classroom hours were spent focusing on gaining technical programming skills using HTML5, CSS3, Javascript, JQuery, NodeJS, MySQL, MongoDB, Express, Handlebars, ReactJS, Heroku, Web APIs, RESTful APIs, Git and testing. Self-directed; self-motivated; and highly organized. Accountable, and focused; passionate about seeing projects through from ideation to delivery and troubleshooting complex issues.',
-  // paragraphTwo: '',
-  // paragraphThree: '',
   resume: 'Resume.Cathlene Converse.pdf', // if no resume, the button will not show up
 };
 
